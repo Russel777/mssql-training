@@ -1,1 +1,1 @@
-# mssql-training
+# otus-mssql-ruslan-n
